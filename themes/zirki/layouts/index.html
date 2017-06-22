@@ -1,0 +1,14 @@
+<div class="index">
+  {{ partial "home_head.html" . }}
+                <div id="cards-wrapper" class="cards-wrapper row">
+                  {{ range $key, $value := .Paginator.Pages }}
+                  <div class="item item-pink col-md-4 col-sm-6 col-xs-6">
+                    {{ .Render "li" }}
+                  </div><!--//item-->
+                  {{ end }}
+              </div><!--//cards-->
+          </div><!--//container-->
+      </section><!--//cards-section-->
+  </div><!--//page-wrapper-->
+  {{ partial "default_foot.html" . }}
+</div>

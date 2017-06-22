@@ -1,0 +1,24 @@
+{{ partial "default_head.html" . }}
+
+    <div class="doc-wrapper">
+        <div class="container">
+            <div id="doc-header" class="doc-header text-center">
+                <h1 class="doc-title"><span aria-hidden="true" class="icon_documents_alt icon"></span> {{ .Title }}</h1>
+                <div class="meta"><i class="fa fa-clock-o"></i> Last updated: {{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</div>
+            </div><!--//doc-header-->
+            <div class="doc-body">
+                <div class="doc-content">
+                    <div class="content-inner">
+                      {{ .Content }}
+                    </div><!--//content-inner-->
+                </div><!--//doc-content-->
+                <div class="doc-sidebar">
+                    <nav id="doc-nav">
+                        {{ partial "doc_nav.html" . }}
+                    </nav>
+                </div><!--//doc-sidebar-->
+            </div><!--//doc-body-->              
+        </div><!--//container-->
+    </div><!--//doc-wrapper-->
+
+{{ partial "default_foot.html" . }}
