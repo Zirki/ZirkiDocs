@@ -1,79 +1,46 @@
 +++
 date = "2017-06-17T15:06:28+05:30"
 draft = false
-title = "Getting Started"
+title = "Getting Started with zirki.ai"
 summary = "Guide on how to get started with Zirki.ai"
 
 +++
 
-<section markdown=1 id="lorem-section" class="doc-section">
+<section markdown=1 id="intro-section" class="doc-section">
 
-## Lorem Ipsum
+<h2>Introduction</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget ipsum vel elit ullamcorper malesuada. Maecenas non efficitur ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec fringilla lacus in sapien aliquam, ut posuere leo ullamcorper. Suspendisse vitae tortor eu quam maximus tincidunt. Quisque non convallis urna. Nam facilisis quam velit, vel dictum eros vulputate sed. Vestibulum placerat eu augue vel dignissim. Praesent vel mattis nunc. Nunc pretium felis ac semper tempus. Mauris consequat commodo purus et faucibus. Nunc eu metus at velit porta vehicula. Phasellus eu dui odio. Vestibulum et odio nec nisl convallis efficitur non ut nunc. Vestibulum at ultricies odio.
+Zirki.ai is a chatbot building platform where someone without any technical or programming knowledge can build chatbots for their organisation and venture.
+<br /><br />
+It provides you ease of access to the simplest web interface for building your chatbot which could be placed on any messaging platform or on your website.
 
-Donec sollicitudin felis eu vestibulum interdum. Donec vitae hendrerit enim, non ultricies metus. In eu sodales urna, vitae varius dui. Morbi mauris augue, hendrerit et lacus quis, laoreet dignissim lorem. Nunc ullamcorper neque justo, id pretium mauris fringilla ut. Nulla ullamcorper aliquam purus at convallis. Nunc in tempor felis. Nam a laoreet metus. Proin vitae elit dui. Ut auctor sodales molestie. Donec mattis lacus eu lectus viverra euismod. Cras iaculis ante fermentum varius iaculis. Sed nec lobortis lorem.
+<h2>Prerequisites</h2>
 
-</section><!--//doc-section-->
+Before getting started to build your first chatbot with zirki.ai just make sure you have a facebook account and a facebook page with proper admin rights.
 
-<section markdown=1 id="ipsum-section" class="doc-section">
-    
-## Doler Sit Amet
+<div markdown=1 id="steps-section" class="section-block">
 
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
+<h3>Step One</h3>
 
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
+<h4>Log in to Facebook and choose your page to create the bot.</h4>
 
-<div markdown=1 id="doler-sit" class="section-block">
+The first step we are going to take is establishing our chatbot on a facebook page for that go to https://zirki.ai and click on "Get Started for Free" Button. It will ask you permission for very first time, you may choose your facebook page about what you want to give permission.
+<br /><br />
+Then you'll be redirected to the connect page where you have to select your Facebook page. As soon as you select your page your Chatbot has created, to test that you may say "HI" to it on your facebook page and it will reply you.
 
-<h3>consectetur</h3>
-
-
-In bibendum arcu vel laoreet lobortis. Sed sed sem in dolor pretium tristique. Curabitur non convallis tellus. Fusce vestibulum enim ac erat ornare, a sodales nulla tincidunt. Morbi sed dui eros. Sed consequat tempus finibus. Donec massa orci, condimentum quis ex ut, congue bibendum purus. Fusce sed quam eu augue viverra rhoncus sit amet eget neque. Nunc neque purus, mattis ac malesuada in, lobortis nec nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent nec lobortis ante, vel bibendum dolor. Nullam ut accumsan lacus, sed venenatis dolor. Nullam tincidunt mi at massa fermentum tristique. Aenean quam erat, eleifend eu libero eget, faucibus fringilla tellus. Aliquam at congue magna, et placerat orci. Phasellus convallis nibh sit amet maximus porta.
-
-Nulla sed pellentesque mi. Cras scelerisque orci nec risus aliquet malesuada. Quisque sit amet feugiat est, vel varius turpis. Donec vitae ligula tincidunt, lobortis risus in, varius nibh. Ut cursus nunc sem. Ut feugiat metus vitae felis tempus aliquam. Sed elit enim, elementum vitae lorem sed, placerat bibendum ex. Mauris quis odio iaculis, elementum lacus nec, ultricies erat. Vivamus sem metus, commodo sit amet lectus vel, commodo volutpat mauris. Cras mollis nec lacus sed consequat. In sagittis commodo viverra.
 
 </div>
 
-<div markdown=1 id="amet-sit" class="section-block">
+</section>
 
-<h3>conscelerisque</h3>
+<section markdown=1 id="conclusion-section" class="doc-section">
 
+<h2>Conclusion</h2>
 
-In bibendum arcu vel laoreet lobortis. Sed sed sem in dolor pretium tristique. Curabitur non convallis tellus. Fusce vestibulum enim ac erat ornare, a sodales nulla tincidunt. Morbi sed dui eros. Sed consequat tempus finibus. Donec massa orci, condimentum quis ex ut, congue bibendum purus. Fusce sed quam eu augue viverra rhoncus sit amet eget neque. Nunc neque purus, mattis ac malesuada in, lobortis nec nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent nec lobortis ante, vel bibendum dolor. Nullam ut accumsan lacus, sed venenatis dolor. Nullam tincidunt mi at massa fermentum tristique. Aenean quam erat, eleifend eu libero eget, faucibus fringilla tellus. Aliquam at congue magna, et placerat orci. Phasellus convallis nibh sit amet maximus porta.
+If you follow all above steps as mentioned you placed a chatbot on your Facebook page, now you may say "HI" to it on your Facebook page. You may teach different things to your chatbot, in next tutorials we'll cover those modules. 
 
-Nulla sed pellentesque mi. Cras scelerisque orci nec risus aliquet malesuada. Quisque sit amet feugiat est, vel varius turpis. Donec vitae ligula tincidunt, lobortis risus in, varius nibh. Ut cursus nunc sem. Ut feugiat metus vitae felis tempus aliquam. Sed elit enim, elementum vitae lorem sed, placerat bibendum ex. Mauris quis odio iaculis, elementum lacus nec, ultricies erat. Vivamus sem metus, commodo sit amet lectus vel, commodo volutpat mauris. Cras mollis nec lacus sed consequat. In sagittis commodo viverra.
-
-</div>
-
-<div markdown=1 id="bibendum-sit" class="section-block">
-
-<h3>bibendum</h3>
-
-
-In bibendum arcu vel laoreet lobortis. Sed sed sem in dolor pretium tristique. Curabitur non convallis tellus. Fusce vestibulum enim ac erat ornare, a sodales nulla tincidunt. Morbi sed dui eros. Sed consequat tempus finibus. Donec massa orci, condimentum quis ex ut, congue bibendum purus. Fusce sed quam eu augue viverra rhoncus sit amet eget neque. Nunc neque purus, mattis ac malesuada in, lobortis nec nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent nec lobortis ante, vel bibendum dolor. Nullam ut accumsan lacus, sed venenatis dolor. Nullam tincidunt mi at massa fermentum tristique. Aenean quam erat, eleifend eu libero eget, faucibus fringilla tellus. Aliquam at congue magna, et placerat orci. Phasellus convallis nibh sit amet maximus porta.
-
-Nulla sed pellentesque mi. Cras scelerisque orci nec risus aliquet malesuada. Quisque sit amet feugiat est, vel varius turpis. Donec vitae ligula tincidunt, lobortis risus in, varius nibh. Ut cursus nunc sem. Ut feugiat metus vitae felis tempus aliquam. Sed elit enim, elementum vitae lorem sed, placerat bibendum ex. Mauris quis odio iaculis, elementum lacus nec, ultricies erat. Vivamus sem metus, commodo sit amet lectus vel, commodo volutpat mauris. Cras mollis nec lacus sed consequat. In sagittis commodo viverra.
-
-</div>
-
-</section><!--//doc-section-->
-
-<section markdown=1 id="demo-section" class="doc-section">
-
-## Demo End
-
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
-
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
-
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
-
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
-
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
-
-Curabitur pulvinar erat sed metus commodo, vitae consectetur odio congue. Quisque blandit ac arcu maximus dapibus. Suspendisse diam sapien, mattis eget diam quis, bibendum imperdiet lorem. Aliquam erat volutpat. Morbi sodales in est tincidunt semper. Pellentesque a blandit nulla. Cras tincidunt ipsum non eros pretium, quis egestas risus tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer ut justo massa. Morbi sem enim, elementum non sapien quis, vestibulum sollicitudin tellus. Vivamus vitae risus id tortor tempus iaculis sit amet in nisl. Phasellus sed dictum augue, et commodo elit. Sed laoreet laoreet tincidunt. Nam pretium semper libero nec fermentum.
-
+<br /><br />
+Thank You.<br />
+<b>By Admin</b>
 </section><!--//doc-section-->
 
