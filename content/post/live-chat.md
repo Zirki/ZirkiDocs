@@ -23,6 +23,9 @@ Whenever any user come online and want to chat with a live agent it will notify 
 
 From left menu choose live chat, you'll be redirected to live chat page, where you could see users list and their messages.  select the user you want to reply write a message to them and hit enter.
 
+<br />
+<img src="https://zirkidocs.gitlab.io/assets/images/live chat/live chat with users.gif" class="post-image" />
+
 <br /><br />
 Thank You.<br />
 <b>By Admin</b>

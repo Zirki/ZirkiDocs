@@ -24,6 +24,10 @@ Sometimes creating and designing Chabot personality could be a time consuming an
 
 From the left menu click on teach bot option, then select Bot personality, you'll be redirected to Bot personality page, there you'll find 30 different attributes related to bot personality, you have to assign answers for them and the bot will start to reply that.
 
+<br/>
+<img src="https://zirkidocs.gitlab.io/assets/images/Bot Personality/bot personality design.gif" class="post-image" />
+
+
 <br /><br />
 Thank You.<br />
 <b>By Admin</b>

@@ -27,7 +27,8 @@ Before getting started to build your first chatbot with zirki.ai just make sure 
 The first step we are going to take is establishing our chatbot on a facebook page for that go to https://zirki.ai and click on "Get Started for Free" Button. It will ask you permission for very first time, you may choose your facebook page about what you want to give permission.
 <br /><br />
 Then you'll be redirected to the connect page where you have to select your Facebook page. As soon as you select your page your Chatbot has created, to test that you may say "HI" to it on your facebook page and it will reply you.
-
+<br/>
+<img src="https://zirkidocs.gitlab.io/assets/images/Getting Started/Getting Started and Login.gif" class="post-image" />
 
 </div>
 

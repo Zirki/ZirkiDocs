@@ -24,7 +24,8 @@ To overcome this situation Zirki.ai provide Bulk teach facility which allows you
 Click on teach bot option from the left menu, select "Bulk teach" option from it, you'll be redirected to the page from where you could download the sample file which contains the exact format how you could create your file for bulk teach.
 <br /><br />
 Download that file and create your file according to that sample and upload it via the same page, chatbot will automatically read that file and learn question and answers from it.
-
+<br />
+<img src="https://zirkidocs.gitlab.io/assets/images/Bulk Teach/bulk teach.gif" class="post-image" />
 
 <br /><br />
 Thank You.<br />

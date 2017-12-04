@@ -38,6 +38,11 @@ It allows to you activate and deactivate chatbot on your page.
 
 It is really time-consuming to teach all conversation one by one manually. To overcome such situation Zirki.ai provides you facility of bulk teach it helps you to teach your bot in one shot.
 
+<br/>
+
+<img src="https://zirkidocs.gitlab.io/assets/images/Introduction to dashboard/bulk teach.png" class="post-image" />
+
+
 
 <div markdown=1 id="steps1" class="section-block">
 
@@ -82,6 +87,8 @@ Conversation module is the main part of your chatbot, it helps you to teach conv
 <br /><br />
 
 It gives you the statistics of Remaining, Published and Pending conversation limits which could be described as below.
+<br/>
+<img src="https://zirkidocs.gitlab.io/assets/images/Introduction to dashboard/Conversation.png" class="post-image" />
 
 <div markdown=1 id="con1" class="section-block">
 
@@ -118,6 +125,8 @@ The total number of such conversations are the Pending conversations.
 <h2>Section Four: Broadcast</h2>
 
 The broadcast module helps you to broadcast your message to all your audience available through messenger or facebook. This section defines your broadcast limits according to your package. 
+<br/>
+<img src="https://zirkidocs.gitlab.io/assets/images/Introduction to dashboard/Broadcast.png" class="post-image" />
 
 <div markdown=1 id="broad1" class="section-block">
 
@@ -159,6 +168,10 @@ These statistics indicate rest of broadcast which you could send in your current
 
 Users may ask different questions to the bot and we can't always be sure our bot know the answer, to improve our bot it's necessary to know about which questions it was unable to reply via logging the unknown questions. This section provides you statistics about such unknown questions.
 
+<br />
+<img src="https://zirkidocs.gitlab.io/assets/images/Introduction to dashboard/Unknown question.png" class="post-image" />
+
+
 <div markdown=1 id="uk1" class="section-block">
 
 <h3>Answered</h3>
@@ -191,6 +204,9 @@ This indicates the total number of unknown questions which are deleted by the bo
 <h2>Section Six: Wrong spellings</h2>
 
 Zirki.ai make sure your bot should fail proof, to enhance that we have a special feature known as wrong spelling detection, it detects the misspelt spellings by the users and allows you to replace a correct version of them.
+<br/>
+
+<img src="https://zirkidocs.gitlab.io/assets/images/Introduction to dashboard/spellings.png" class="post-image" />
 
 <div markdown=1 id="spellings1" class="section-block">
 

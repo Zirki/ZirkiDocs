@@ -25,7 +25,8 @@ From left menu click on integration, then choose chat widget.
 It will redirect to chat widget integration page, where you could design a chat widget for your website. 
 <br /><br />
 After designing the widget click on generate code button, copy the code and paste it before </body> tag in your web page where you want to show this that widget.
-
+<br/>
+<img src="https://zirkidocs.gitlab.io/assets/images/Chatwidget integration/ChatWidget Integration.gif" class="post-image" />
 
 
 <br /><br />
