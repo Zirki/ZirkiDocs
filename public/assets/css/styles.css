@@ -1323,3 +1323,11 @@ select {
 .breadcrumb > li + li:before {
   color: rgba(255,255,255,.8);
 }
+
+.post-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 20px 0;
+  border: 1px solid #333;
+}
