@@ -1331,3 +1331,7 @@ select {
   margin: 20px 0;
   border: 1px solid #333;
 }
+
+.doc-menu {
+  max-width: 200px;
+}
