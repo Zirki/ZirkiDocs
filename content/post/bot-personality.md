@@ -1,5 +1,5 @@
 +++
-date = "2017-06-17T15:06:28+05:30"
+date = "2017-12-03T15:06:28+05:30"
 draft = false
 title = "Designing your Bot personality"
 summary = "Guide on designing your Bot personality on Zirki.ai"

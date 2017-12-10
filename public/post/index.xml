@@ -6,81 +6,144 @@
     <description>Recent content in Posts on Zirki Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 15:06:28 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2017 15:06:28 +0530</lastBuildDate>
     
 	<atom:link href="https://zirkidocs.gitlab.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Getting Started with zirki.ai</title>
+      <link>https://zirkidocs.gitlab.io/post/getting-started/</link>
+      <pubDate>Sun, 10 Dec 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/getting-started/</guid>
+      <description>Introduction Zirki.ai is a chatbot building platform where someone without any technical or programming knowledge can build chatbots for their organisation and venture. It provides you ease of access to the simplest web interface for building your chatbot which could be placed on any messaging platform or on your website.  Prerequisites Before getting started to build your first chatbot with zirki.ai just make sure you have a facebook account and a facebook page with proper admin rights.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Dashboard</title>
+      <link>https://zirkidocs.gitlab.io/post/intro-dashboard/</link>
+      <pubDate>Sat, 09 Dec 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/intro-dashboard/</guid>
+      <description>Introduction The dashboard is the status panel of your chatbot where you could get all details about your package limit, usage, and bot active or deactivate status. Dashboard introduces you to the current level of Bot and notifies you about unknown question and wrong spelling detection status. In this Introduction, we&#39;ll cover different sections of the dashboard and see them in brief.  Section one: Bot status Bot Status defines if it is actively replying to your users or not.</description>
+    </item>
+    
+    <item>
       <title>Activate/Deactivate your Bot</title>
       <link>https://zirkidocs.gitlab.io/post/activate-deactivate-bot/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
+      <pubDate>Fri, 08 Dec 2017 15:06:28 +0530</pubDate>
       
       <guid>https://zirkidocs.gitlab.io/post/activate-deactivate-bot/</guid>
       <description>Introduction After login at zirki.ai as soon as you select your Facebook page, chatbot activated on it. your users may say &#34;hi&#34; to it. Sometimes during the development stage, you want to disable your chatbot from the page at that time you may use this facility.  Steps Activate / Deactivate your chatbot Go to application dashboard, there you&#39;ll find a toggle button, click on that to change the status of your chatbot.</description>
     </item>
     
     <item>
-      <title>Audience on chatwidget</title>
-      <link>https://zirkidocs.gitlab.io/post/audience-on-chatwidget/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
+      <title>Switch your Facebook page</title>
+      <link>https://zirkidocs.gitlab.io/post/switch-fb-page/</link>
+      <pubDate>Thu, 07 Dec 2017 15:06:28 +0530</pubDate>
       
-      <guid>https://zirkidocs.gitlab.io/post/audience-on-chatwidget/</guid>
-      <description>Introduction Sometimes we want to know about all our chatbot users, audience feature provides you facility of that, you may check a total number of your bot users. It also let you know their name, gender, time and website via that they are accessing your chatbot.  To access the list of your chatbot users who use it via chat widget, Click on Audience option from the left menu, then choose &#34;</description>
+      <guid>https://zirkidocs.gitlab.io/post/switch-fb-page/</guid>
+      <description>Introduction As a botmaster, you may have a number of Facebook pages and chatbots on them and sometimes you want to teach something to your other bot, in such case you may use this functionality. Sometimes during the development stage, you want to disable your chatbot from the page at that time you may use this facility.  Steps to switch page To switch your current working page, go to the left top corner of your page and click on navbar drop down, there you&#39;ll be able to see an option of &#34;</description>
     </item>
     
     <item>
-      <title>Audience on messenger</title>
-      <link>https://zirkidocs.gitlab.io/post/audience-on-messenger/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
+      <title>Teach Conversation to your chatbot</title>
+      <link>https://zirkidocs.gitlab.io/post/teach-convo/</link>
+      <pubDate>Wed, 06 Dec 2017 15:06:28 +0530</pubDate>
       
-      <guid>https://zirkidocs.gitlab.io/post/audience-on-messenger/</guid>
-      <description>Introduction Sometimes we want to know about all our chatbot users, audience feature provides you facility of that, you may check a total number of your bot users. It also let you know their name, email, timezone and platform via that they are accessing your chatbot.  To access the list of your chatbot users who use it via messenger platform, Click on Audience option from the left menu, then choose &#34;</description>
+      <guid>https://zirkidocs.gitlab.io/post/teach-convo/</guid>
+      <description>Introduction Chatbot conversation is an essential part of the bot, its give the exact experience to your users in term of natural language processing. This module helps you to teach new question and answers to your chatbot. you may add numbers of questions to your chatbot with the different guessable inputs and their different reply.   Step to add conversation From the left menu click on Teach bot option, then choose conversation option.</description>
+    </item>
+    
+    <item>
+      <title>Update welcome/Default message</title>
+      <link>https://zirkidocs.gitlab.io/post/update-welcome/</link>
+      <pubDate>Tue, 05 Dec 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/update-welcome/</guid>
+      <description>Introduction Welcome Message There are numbers of users who interact very first time to our chatbot, as a good bot master we want to give them a delightful experience, with the purpose of that we have a facility of a welcome message which will greet the bot users on their very first conversation.  Default Message Sometimes when our bot doesn&#39;t know the proper answer to the question in such case it replies with a default message which could be defined by the botmaster.</description>
     </item>
     
     <item>
       <title>Bulk Teach to your chatbot</title>
       <link>https://zirkidocs.gitlab.io/post/bulk-teach-bot/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
+      <pubDate>Mon, 04 Dec 2017 15:06:28 +0530</pubDate>
       
       <guid>https://zirkidocs.gitlab.io/post/bulk-teach-bot/</guid>
       <description>Introduction Teaching conversation to the chatbot is a time-consuming task, and sometimes we already have a huge chat history from previous logs, adding them manually one by one is not a good way of teaching to bot. To overcome this situation Zirki.ai provide Bulk teach facility which allows you to teach conversation to bot in one shot via excel file.  Steps to do bulk teach Click on teach bot option from the left menu, select &#34;</description>
     </item>
     
     <item>
-      <title>Chat widget integration</title>
-      <link>https://zirkidocs.gitlab.io/post/chat-widget-integration/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/chat-widget-integration/</guid>
-      <description>Introduction Zirki.ai provide you with the facility to integrate live chat widget into your desktop website. It provides you with a way to design your own live chat widget according to your website.  Steps Create a chat widget for your website From left menu click on integration, then choose chat widget. It will redirect to chat widget integration page, where you could design a chat widget for your website. After designing the widget click on generate code button, copy the code and paste it before  tag in your web page where you want to show this that widget.</description>
-    </item>
-    
-    <item>
       <title>Designing your Bot personality</title>
       <link>https://zirkidocs.gitlab.io/post/bot-personality/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
+      <pubDate>Sun, 03 Dec 2017 15:06:28 +0530</pubDate>
       
       <guid>https://zirkidocs.gitlab.io/post/bot-personality/</guid>
       <description>Introduction As a Human being, we have our own personality which describes our age, gender, name, school, town, nationality and all other attributes. So same as a human being any virtual character or chatbot could have their own personality. Sometimes creating and designing Chabot personality could be a time consuming and difficult task, Zirki.ai make it very easy for you. We have the predefined module for it which allow you to set answers to predefined personality-related questions.</description>
     </item>
     
     <item>
-      <title>Getting Started with zirki.ai</title>
-      <link>https://zirkidocs.gitlab.io/post/getting-started/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
+      <title>Spelling Replacement</title>
+      <link>https://zirkidocs.gitlab.io/post/spelling-replacement/</link>
+      <pubDate>Sat, 02 Dec 2017 15:06:28 +0530</pubDate>
       
-      <guid>https://zirkidocs.gitlab.io/post/getting-started/</guid>
-      <description>Introduction Zirki.ai is a chatbot building platform where someone without any technical or programming knowledge can build chatbots for their organisation and venture. It provides you ease of access to the simplest web interface for building your chatbot which could be placed on any messaging platform or on your website. Prerequisites Before getting started to build your first chatbot with zirki.ai just make sure you have a facebook account and a facebook page with proper admin rights.</description>
+      <guid>https://zirkidocs.gitlab.io/post/spelling-replacement/</guid>
+      <description>Introduction As a botmaster, we always went to make our bot fail proof, sometimes bot users may misspell some words and due to that bot is unable to reply with the proper answer, in such case we can replace that misspelt word with a correct word and bot will reply with a perfect answer. Chatbot will log wrong spells itself and ask you for a correct replacement.  Steps to replace a wrong spell From the left menu click on Teach bot option, then select spelling replacement, you&#39;ll be redirected to spelling replacement module.</description>
     </item>
     
     <item>
-      <title>Introduction to Dashboard</title>
-      <link>https://zirkidocs.gitlab.io/post/intro-dashboard/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
+      <title>Unknown question detection</title>
+      <link>https://zirkidocs.gitlab.io/post/unknown-question-detection/</link>
+      <pubDate>Fri, 01 Dec 2017 15:06:28 +0530</pubDate>
       
-      <guid>https://zirkidocs.gitlab.io/post/intro-dashboard/</guid>
-      <description>Introduction The dashboard is the status panel of your chatbot where you could get all details about your package limit, usage, and bot active or deactivate status. Dashboard introduces you to the current level of Bot and notifies you about unknown question and wrong spelling detection status. In this Introduction, we&#39;ll cover different sections of the dashboard and see them in brief.  Section one: Bot status Bot Status defines if it is actively replying to your users or not.</description>
+      <guid>https://zirkidocs.gitlab.io/post/unknown-question-detection/</guid>
+      <description>Introduction As a botmaster, we always went to make our bot fail proof, sometimes bot users may ask such a questions for that bot don&#39;t have an answer, in such case chatbot will log unknown questions and ask you for an answer.  Steps to write an answer to an unknown question From the left menu click on Teach bot option, then select unknown questions, you&#39;ll be redirected to unknown question list.</description>
+    </item>
+    
+    <item>
+      <title>Audience on messenger</title>
+      <link>https://zirkidocs.gitlab.io/post/audience-on-messenger/</link>
+      <pubDate>Mon, 20 Nov 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/audience-on-messenger/</guid>
+      <description>Introduction Sometimes we want to know about all our chatbot users, audience feature provides you facility of that, you may check a total number of your bot users. It also let you know their name, email, timezone and platform via that they are accessing your chatbot.  To access the list of your chatbot users who use it via messenger platform, Click on Audience option from the left menu, then choose &#34;</description>
+    </item>
+    
+    <item>
+      <title>Audience on chatwidget</title>
+      <link>https://zirkidocs.gitlab.io/post/audience-on-chatwidget/</link>
+      <pubDate>Sun, 19 Nov 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/audience-on-chatwidget/</guid>
+      <description>Introduction Sometimes we want to know about all our chatbot users, audience feature provides you facility of that, you may check a total number of your bot users. It also let you know their name, gender, time and website via that they are accessing your chatbot.  To access the list of your chatbot users who use it via chat widget, Click on Audience option from the left menu, then choose &#34;</description>
+    </item>
+    
+    <item>
+      <title>Messenger Bot Broadcasting</title>
+      <link>https://zirkidocs.gitlab.io/post/messenger-bot-broadcasting/</link>
+      <pubDate>Fri, 17 Nov 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/messenger-bot-broadcasting/</guid>
+      <description>Introduction The broadcasting facility allows you to send a specific message to all your chatbot users. You can use this feature for sending updates to your users.  Create a Broadcast From the left menu click on broadcast, you&#39;ll be redirected to Manage Broadcasting page, click on Add Broadcast button, write your message in the text area, you may use user&#39;s first name, last name in the message, select that via button if you want.</description>
+    </item>
+    
+    <item>
+      <title>Chat widget integration</title>
+      <link>https://zirkidocs.gitlab.io/post/chat-widget-integration/</link>
+      <pubDate>Wed, 15 Nov 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/chat-widget-integration/</guid>
+      <description>Introduction Zirki.ai provide you with the facility to integrate live chat widget into your desktop website. It provides you with a way to design your own live chat widget according to your website.  Steps Create a chat widget for your website From left menu click on integration, then choose chat widget. It will redirect to chat widget integration page, where you could design a chat widget for your website. After designing the widget click on generate code button, copy the code and paste it before  tag in your web page where you want to show this that widget.</description>
+    </item>
+    
+    <item>
+      <title>Ticket Support</title>
+      <link>https://zirkidocs.gitlab.io/post/ticket-support/</link>
+      <pubDate>Sat, 11 Nov 2017 15:06:28 +0530</pubDate>
+      
+      <guid>https://zirkidocs.gitlab.io/post/ticket-support/</guid>
+      <description>Introduction Sometimes there are some issues with our platform and you want to submit a bug, issue, or technical query at that time Ticket Support help you to submit your query directly to our technical/support team. They&#39;ll solve your issues with priority and you&#39;ll be able to trace each and every movement of your issue/ticket.  Steps to submit a Ticket From the left menu click on support, then choose tickets.</description>
     </item>
     
     <item>
@@ -90,69 +153,6 @@
       
       <guid>https://zirkidocs.gitlab.io/post/live-chat/</guid>
       <description>Introduction Sometimes you want to provide live chat support to your users, but they could be on multiple platforms, managing them all via different place could be an issue. Zirka.ai provides you with a facility to live Chat with your users which could be on different platforms. Whenever any user come online and want to chat with a live agent it will notify you on the zirki.ai master panel.  Steps to do live Chat From left menu choose live chat, you&#39;ll be redirected to live chat page, where you could see users list and their messages.</description>
-    </item>
-    
-    <item>
-      <title>Messenger Bot Broadcasting</title>
-      <link>https://zirkidocs.gitlab.io/post/messenger-bot-broadcasting/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/messenger-bot-broadcasting/</guid>
-      <description>Introduction The broadcasting facility allows you to send a specific message to all your chatbot users. You can use this feature for sending updates to your users.  Create a Broadcast From the left menu click on broadcast, you&#39;ll be redirected to Manage Broadcasting page, click on Add Broadcast button, write your message in the text area, you may use user&#39;s first name, last name in the message, select that via button if you want.</description>
-    </item>
-    
-    <item>
-      <title>Spelling Replacement</title>
-      <link>https://zirkidocs.gitlab.io/post/spelling-replacement/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/spelling-replacement/</guid>
-      <description>Introduction As a botmaster, we always went to make our bot fail proof, sometimes bot users may misspell some words and due to that bot is unable to reply with the proper answer, in such case we can replace that misspelt word with a correct word and bot will reply with a perfect answer. Chatbot will log wrong spells itself and ask you for a correct replacement.  Steps to replace a wrong spell From the left menu click on Teach bot option, then select spelling replacement, you&#39;ll be redirected to spelling replacement module.</description>
-    </item>
-    
-    <item>
-      <title>Switch your Facebook page</title>
-      <link>https://zirkidocs.gitlab.io/post/switch-fb-page/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/switch-fb-page/</guid>
-      <description>Introduction As a botmaster, you may have a number of Facebook pages and chatbots on them and sometimes you want to teach something to your other bot, in such case you may use this functionality. Sometimes during the development stage, you want to disable your chatbot from the page at that time you may use this facility.  Steps to switch page To switch your current working page, go to the left top corner of your page and click on navbar drop down, there you&#39;ll be able to see an option of &#34;</description>
-    </item>
-    
-    <item>
-      <title>Teach Conversation to your chatbot</title>
-      <link>https://zirkidocs.gitlab.io/post/teach-convo/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/teach-convo/</guid>
-      <description>Introduction Chatbot conversation is an essential part of the bot, its give the exact experience to your users in term of natural language processing. This module helps you to teach new question and answers to your chatbot. you may add numbers of questions to your chatbot with the different guessable inputs and their different reply.   Step to add conversation From the left menu click on Teach bot option, then choose conversation option.</description>
-    </item>
-    
-    <item>
-      <title>Ticket Support</title>
-      <link>https://zirkidocs.gitlab.io/post/ticket-support/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/ticket-support/</guid>
-      <description>Introduction Sometimes there are some issues with our platform and you want to submit a bug, issue, or technical query at that time Ticket Support help you to submit your query directly to our technical/support team. They&#39;ll solve your issues with priority and you&#39;ll be able to trace each and every movement of your issue/ticket.  Steps to submit a Ticket From the left menu click on support, then choose tickets.</description>
-    </item>
-    
-    <item>
-      <title>Unknown question detection</title>
-      <link>https://zirkidocs.gitlab.io/post/unknown-question-detection/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/unknown-question-detection/</guid>
-      <description>Introduction As a botmaster, we always went to make our bot fail proof, sometimes bot users may ask such a questions for that bot don&#39;t have an answer, in such case chatbot will log unknown questions and ask you for an answer.  Steps to write an answer to an unknown question From the left menu click on Teach bot option, then select unknown questions, you&#39;ll be redirected to unknown question list.</description>
-    </item>
-    
-    <item>
-      <title>Update welcome/Default message</title>
-      <link>https://zirkidocs.gitlab.io/post/update-welcome/</link>
-      <pubDate>Sat, 17 Jun 2017 15:06:28 +0530</pubDate>
-      
-      <guid>https://zirkidocs.gitlab.io/post/update-welcome/</guid>
-      <description>Introduction Welcome Message There are numbers of users who interact very first time to our chatbot, as a good bot master we want to give them a delightful experience, with the purpose of that we have a facility of a welcome message which will greet the bot users on their very first conversation.  Default Message Sometimes when our bot doesn&#39;t know the proper answer to the question in such case it replies with a default message which could be defined by the botmaster.</description>
     </item>
     
   </channel>

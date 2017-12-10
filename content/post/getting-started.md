@@ -1,5 +1,5 @@
 +++
-date = "2017-06-17T15:06:28+05:30"
+date = "2017-12-10T15:06:28+05:30"
 draft = false
 title = "Getting Started with zirki.ai"
 summary = "Guide on how to get started with Zirki.ai"
@@ -13,7 +13,8 @@ summary = "Guide on how to get started with Zirki.ai"
 Zirki.ai is a chatbot building platform where someone without any technical or programming knowledge can build chatbots for their organisation and venture.
 <br /><br />
 It provides you ease of access to the simplest web interface for building your chatbot which could be placed on any messaging platform or on your website.
-
+</section>
+<section markdown=1 id="prereq-section" class="doc-section">
 <h2>Prerequisites</h2>
 
 Before getting started to build your first chatbot with zirki.ai just make sure you have a facebook account and a facebook page with proper admin rights.

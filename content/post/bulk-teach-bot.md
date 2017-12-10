@@ -1,5 +1,5 @@
 +++
-date = "2017-06-17T15:06:28+05:30"
+date = "2017-12-04T15:06:28+05:30"
 draft = false
 title = "Bulk Teach to your chatbot"
 summary = "Bulk teach feature on Zirki.ai"

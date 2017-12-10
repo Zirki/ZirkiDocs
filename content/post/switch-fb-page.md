@@ -1,5 +1,5 @@
 +++
-date = "2017-06-17T15:06:28+05:30"
+date = "2017-12-07T15:06:28+05:30"
 draft = false
 title = "Switch your Facebook page"
 summary = "A Guide on how to change your current facebook page on Zirki.ai"

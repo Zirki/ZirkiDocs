@@ -1,5 +1,5 @@
 +++
-date = "2017-06-17T15:06:28+05:30"
+date = "2017-11-15T15:06:28+05:30"
 draft = false
 title = "Chat widget integration"
 summary = "Guide on how to integrate chat widget in your website"

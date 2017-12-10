@@ -1,5 +1,5 @@
 +++
-date = "2017-06-17T15:06:28+05:30"
+date = "2017-12-05T15:06:28+05:30"
 draft = false
 title = "Update welcome/Default message"
 summary = "How to update your bot's welcome message on Zirki.ai"

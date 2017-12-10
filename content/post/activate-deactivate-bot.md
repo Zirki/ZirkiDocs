@@ -1,5 +1,5 @@
 +++
-date = "2017-06-17T15:06:28+05:30"
+date = "2017-12-08T15:06:28+05:30"
 draft = false
 title = "Activate/Deactivate your Bot"
 summary = "A Guide on how to activate/deactivate your bot"
